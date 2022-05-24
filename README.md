@@ -8,7 +8,7 @@ With this script, you will obtain your daily macronutrients and calorie distribu
 
 The script is able to export your diet into a text file, with the option to overwrite or to append an already existing one.
 
-To use this script, simply run `main.py` with your Python interpreter.
+To use this script, simply run `main.py` with your Python interpreter. A [Windows](https://github.com/pniau7/BLS-Diet-Calculator/releases/download/v1.0.0/BLS.Diet.Calculator.1.0.0.exe) version is available as an executable file.
 
 ## Features
 
